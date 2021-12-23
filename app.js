@@ -1,4 +1,4 @@
-const Api = require("./lib/NorenRestApi");
+const Api = require("./lib/RestApi");
 
 let { authparams } = require("./cred");
 
